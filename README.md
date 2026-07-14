@@ -14,6 +14,7 @@ Welcome to my resume repository.
 - DAX
 - Data Visualization
 - Data Analysis
+- -Streamlit
 
 ## Projects
 - Food Delivery Dashboard
